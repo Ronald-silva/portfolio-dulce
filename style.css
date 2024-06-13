@@ -142,6 +142,10 @@ footer {
         text-align: center;
     }
 
+    h1 {
+        font-size:larger;
+    }
+
     .container {
         width: 95%;
     }
