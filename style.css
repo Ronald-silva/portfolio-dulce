@@ -60,7 +60,7 @@ body {
 
 .hero {
     background: url('hero-bg.jpg') no-repeat center center/cover;
-    height: 30vh;
+    height: 20vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -143,6 +143,12 @@ footer {
 
     .container {
         width: 95%;
+    }
+
+    .header .container {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
     }
 }
 
