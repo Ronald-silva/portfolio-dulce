@@ -65,11 +65,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff;
-}
-
-.hero h2{
-    text-shadow: 2px 2px royalblue;
+    color:#007bff;
 }
 
 .about, .services {
